@@ -1,10 +1,10 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-export default function Index() {
+export default function Create() {
   return (
     <View>
-      <Text>I</Text>
+      <Text>C</Text>
     </View>
   )
 }
